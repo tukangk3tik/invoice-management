@@ -1,7 +1,7 @@
 Written in Kotlin.
 
-Thankyou for Artivisi Intermedia.__
-Youtube channel: https://www.youtube.com/user/artivisi__
+Thankyou for Artivisi Intermedia. <br />
+Youtube channel: https://www.youtube.com/user/artivisi <br />
 Note: In this video, the application is written using Java
 
 # INVOICE MANAGEMENT APPLICATION #

@@ -1,6 +1,6 @@
 Written in Kotlin.
 
-Thankyou for Artivisi Intermedia
+Thankyou for Artivisi Intermedia.
 Youtube channel: https://www.youtube.com/user/artivisi
 Note: In this video, the application is written using Java
 

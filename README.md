@@ -1,14 +1,13 @@
-Learning something stuff about Spring
+Written in Kotlin.
 
-
-Big thanks for Artivisi Intermedia
-
+Thankyou for Artivisi Intermedia
 Youtube channel: https://www.youtube.com/user/artivisi
+Note: In this video, the application is written using Java
 
-# APLIKASI INVOICE MANAGEMENT #
+# INVOICE MANAGEMENT APPLICATION #
 
-Aplikasi ini dipakai untuk mengelola invoice dan menyambungkan dengan berbagai metode pembayaran masa kini.
-Metode pembayaran yang akan disupport antara lain:
+This application is used to manage invoices and connect with various modern payment methods.
+Payment methods that will be supported include:
 
 * Virtual Account Bank
   * Bank BNI
